@@ -17,9 +17,3 @@ The results of the audit are stored in an HTML report for easy review.
 
 ## Installation
 Clone this repository and install the required dependencies:
-
-```bash
-git clone https://github.com/yourusername/web_app_security_audit_tool.git
-cd web_app_security_audit_tool
-pip install -r requirements.txt
-```
