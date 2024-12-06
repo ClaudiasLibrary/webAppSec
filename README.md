@@ -16,4 +16,4 @@ The results of the audit are stored in an HTML report for easy review.
 - `requests`, `beautifulsoup4`, `sqlmap` (installed via `pip`)
 
 ## Installation
-Clone this repository and install the required dependencies:
+Clone this repository and install the required dependencies
