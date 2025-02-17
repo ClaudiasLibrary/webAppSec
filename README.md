@@ -1,5 +1,8 @@
 # Web Application Security Auditing Tool
 
+## Theory behind the code
+[Web Applications Vulnerabilities](https://claudiaslibrary.notion.site/Web-Applications-Vulnerabilities-12b19f756832801f9e2dd32a86bd628b)
+
 ## Overview
 This tool automates the process of auditing a web application for common security vulnerabilities
 such as SQL Injection, Cross-Site Scripting (XSS), and missing HTTP security headers.
